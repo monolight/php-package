@@ -1,0 +1,19 @@
+{
+    "name": "ml/php-meta",
+    "description": "Composer PHP Version Stub",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pete Hatton",
+            "email": "pete@monolight.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "5.5-dev"
+        }
+    }
+}
